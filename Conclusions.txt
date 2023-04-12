@@ -1,0 +1,8 @@
+Después de realizar las pruebas en la API de la PetStore, podemos concluir que:
+
+El servicio funciona correctamente en la mayoría de los casos y responde con los datos correctos.
+La documentación proporcionada por la PetStore es clara y precisa, lo que hace que sea fácil de entender cómo funciona la API y cómo se deben realizar las pruebas.
+A pesar de que en la certificación manual de las pruebas, pude ver uno que otro comportamiento extraño de parte del put (al actualizar el nombre de usuario y el correo), considero que son asersiones que se pueden agregar al futuro para validar más casos.
+Las pruebas automatizadas realizadas en Cypress.io son una herramienta muy útil para validar la API y garantizar que funciona correctamente. Con las aserciones adecuadas, se puede verificar que los datos recibidos son los esperados y se puede detectar cualquier problema en el servicio.
+La eliminación del usuario se realizó correctamente y la respuesta esperada fue recibida.
+En general, la API de PetStore es confiable y fácil de usar, pero se deben realizar algunas mejoras para garantizar un servicio más estable y confiable. Las pruebas automatizadas son una herramienta muy útil para garantizar la calidad del servicio y detectar cualquier problema.
